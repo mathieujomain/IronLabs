@@ -1,0 +1,63 @@
+matui@LAPTOP-V10V2VSA MINGW64 ~
+$ git clone https://github.com/mathieujomain/IronEdgar IronEdgar
+Cloning into 'IronEdgar'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+matui@LAPTOP-V10V2VSA MINGW64 ~
+$ cd IronEdgar
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (main)
+$ git branch
+* main
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (main)
+$ git branch classmate
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (main)
+$ git checkout classmate
+Switched to branch 'classmate'
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (classmate)
+$ touch mathieu.txt
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (classmate)
+$ echo "I enrolled Ironhack's Data Analytics bootcamp because I'd like to work in business inteligence" > mathieu.txt
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (classmate)
+$ git status
+On branch classmate
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        mathieu.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (classmate)
+$ git add . mathieu.txt
+warning: LF will be replaced by CRLF in mathieu.txt.
+The file will have its original line endings in your working directory
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (classmate)
+$ git commit -m "mathieu.txt"
+[classmate fde3696] mathieu.txt
+ 1 file changed, 1 insertion(+)
+ create mode 100644 mathieu.txt
+
+matui@LAPTOP-V10V2VSA MINGW64 ~/IronEdgar (classmate)
+$ git push -u origin classmate
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 390 bytes | 195.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'classmate' on GitHub by visiting:
+remote:      https://github.com/mathieujomain/IronEdgar/pull/new/classmate
+remote:
+To https://github.com/mathieujomain/IronEdgar
+ * [new branch]      classmate -> classmate
+branch 'classmate' set up to track 'origin/classmate'.
