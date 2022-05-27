@@ -1,0 +1,220 @@
+EducationSector,Target IndividualProject ,Age,Gender,City,Influenced,Perseverance,DesireToTakeInitiative,Competitiveness,SelfReliance,StrongNeedToAchieve,SelfConfidence,GoodPhysicalHealth,MentalDisorder,KeyTraits,Target-ent_competency
+Engineering Sciences,No,19.0,Male,Yes,No,2.0,2.0,3.0,3.0,2.0,2.0,3.0,Yes,passion,1
+Engineering Sciences,Yes,22.0,Male,No,Yes,3.0,3.0,3.0,4.0,4.0,3.0,4.0,Yes,vision,0
+Engineering Sciences,No,18.0,Male,Yes,No,3.0,4.0,3.0,3.0,3.0,4.0,4.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,4.0,3.0,3.0,No,resilience,0
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,2.0,3.0,3.0,3.0,4.0,3.0,2.0,Yes,vision,1
+Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,positivity,1
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,2.0,3.0,3.0,4.0,1.0,1.0,No,work ethic,1
+Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,2.0,4.0,4.0,5.0,3.0,4.0,Yes,work ethic,0
+Others,Yes,20.0,Male,Yes,Yes,2.0,3.0,3.0,1.0,2.0,2.0,2.0,No,passion,0
+Engineering Sciences,Yes,17.0,Male,Yes,Yes,2.0,3.0,2.0,1.0,4.0,3.0,3.0,Yes,work ethic,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,No,3.0,3.0,3.0,4.0,3.0,5.0,4.0,No,resilience,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,3.0,3.0,4.0,4.0,5.0,4.0,5.0,No,passion,1
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,Yes,work ethic,0
+Engineering Sciences,No,21.0,Male,Yes,Yes,4.0,3.0,4.0,4.0,5.0,4.0,4.0,No,vision,1
+Others,No,20.0,Male,No,Yes,2.0,1.0,2.0,3.0,3.0,2.0,3.0,No,passion,1
+Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,4.0,3.0,3.0,4.0,4.0,5.0,No,positivity,1
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,2.0,3.0,2.0,3.0,2.0,2.0,Yes,vision,0
+Engineering Sciences,No,21.0,Male,Yes,No,4.0,3.0,4.0,4.0,4.0,4.0,4.0,No,positivity,0
+Engineering Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,3.0,4.0,No,passion,1
+Engineering Sciences,No,20.0,Female,Yes,Yes,3.0,4.0,4.0,5.0,5.0,2.0,4.0,Yes,passion,0
+Engineering Sciences,No,19.0,Male,Yes,No,1.0,3.0,2.0,3.0,3.0,2.0,3.0,Yes,vision,0
+Engineering Sciences,No,21.0,Female,Yes,Yes,4.0,5.0,4.0,4.0,5.0,4.0,4.0,No,positivity,0
+Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,3.0,3.0,2.0,3.0,2.0,3.0,No,vision,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,vision,1
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,3.0,3.0,3.0,No,work ethic,0
+Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,4.0,3.0,4.0,5.0,4.0,4.0,No,vision,0
+"Art, Music or Design",Yes,21.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,passion,1
+"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,work ethic,0
+"Economic Sciences, Business Studies, Commerce and Law",No,23.0,Female,Yes,Yes,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,work ethic,1
+Engineering Sciences,No,18.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,4.0,3.0,No,passion,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,17.0,Male,Yes,Yes,3.0,5.0,2.0,4.0,5.0,3.0,5.0,Yes,work ethic,1
+Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,3.0,4.0,3.0,3.0,3.0,3.0,No,work ethic,0
+Humanities and Social Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,vision,1
+Engineering Sciences,Yes,22.0,Male,No,No,4.0,3.0,5.0,5.0,4.0,2.0,4.0,No,resilience,0
+Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,5.0,5.0,3.0,No,positivity,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,21.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,4.0,3.0,5.0,No,passion,0
+Engineering Sciences,No,19.0,Male,Yes,No,3.0,4.0,4.0,3.0,3.0,4.0,3.0,No,work ethic,0
+"Economic Sciences, Business Studies, Commerce and Law",No,23.0,Male,No,Yes,5.0,4.0,4.0,3.0,5.0,4.0,4.0,No,passion,1
+Engineering Sciences,No,18.0,Male,Yes,No,3.0,4.0,4.0,5.0,5.0,3.0,5.0,No,positivity,0
+Engineering Sciences,No,21.0,Male,Yes,No,3.0,4.0,3.0,3.0,3.0,4.0,4.0,No,positivity,0
+Engineering Sciences,No,18.0,Male,No,Yes,3.0,4.0,2.0,3.0,3.0,4.0,4.0,No,positivity,1
+"Art, Music or Design",Yes,20.0,Male,Yes,No,4.0,1.0,3.0,4.0,5.0,2.0,2.0,Yes,positivity,0
+Engineering Sciences,Yes,26.0,Male,No,Yes,2.0,3.0,2.0,3.0,3.0,2.0,3.0,Yes,vision,1
+Engineering Sciences,No,20.0,Female,Yes,Yes,5.0,4.0,5.0,5.0,5.0,4.0,5.0,No,positivity,1
+Engineering Sciences,No,20.0,Female,No,No,5.0,4.0,5.0,5.0,4.0,5.0,4.0,Yes,passion,0
+Engineering Sciences,Yes,21.0,Male,Yes,No,4.0,4.0,5.0,5.0,4.0,4.0,3.0,No,positivity,1
+Engineering Sciences,Yes,20.0,Female,Yes,No,5.0,3.0,4.0,4.0,5.0,3.0,3.0,No,work ethic,0
+Others,Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,4.0,4.0,No,positivity,0
+"Medicine, Health Sciences",Yes,19.0,Female,Yes,Yes,1.0,1.0,1.0,1.0,1.0,1.0,1.0,No,positivity,1
+Engineering Sciences,Yes,21.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,Yes,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,2.0,2.0,2.0,3.0,3.0,3.0,2.0,No,vision,1
+Engineering Sciences,Yes,20.0,Female,Yes,Yes,5.0,5.0,5.0,4.0,5.0,4.0,4.0,No,positivity,1
+"Teaching Degree (e.g., B.Ed)",No,19.0,Male,Yes,Yes,3.0,2.0,2.0,2.0,3.0,1.0,2.0,No,work ethic,0
+Engineering Sciences,Yes,21.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,4.0,5.0,5.0,No,work ethic,1
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,4.0,5.0,5.0,5.0,5.0,5.0,Yes,passion,1
+Engineering Sciences,No,20.0,Female,Yes,No,3.0,4.0,4.0,5.0,4.0,3.0,4.0,No,positivity,0
+Engineering Sciences,No,20.0,Female,Yes,Yes,3.0,4.0,3.0,5.0,4.0,5.0,3.0,No,positivity,0
+Engineering Sciences,Yes,19.0,Male,Yes,No,3.0,3.0,3.0,4.0,2.0,4.0,4.0,Yes,work ethic,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,2.0,4.0,Yes,passion,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,3.0,4.0,3.0,3.0,4.0,3.0,4.0,Yes,work ethic,0
+Engineering Sciences,Yes,19.0,Female,Yes,No,4.0,5.0,4.0,4.0,5.0,5.0,3.0,Yes,positivity,1
+Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,5.0,4.0,5.0,5.0,5.0,3.0,No,positivity,0
+Engineering Sciences,No,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,positivity,0
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,2.0,3.0,1.0,2.0,2.0,1.0,3.0,No,passion,1
+Engineering Sciences,Yes,22.0,Male,No,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,positivity,1
+Engineering Sciences,No,19.0,Male,No,Yes,4.0,5.0,5.0,5.0,4.0,4.0,5.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,4.0,4.0,3.0,4.0,3.0,5.0,No,work ethic,1
+Mathematics or Natural Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,4.0,3.0,5.0,No,positivity,0
+"Art, Music or Design",Yes,24.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,4.0,5.0,Yes,work ethic,1
+Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,2.0,3.0,3.0,3.0,1.0,2.0,No,resilience,0
+Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,2.0,3.0,2.0,3.0,3.0,2.0,No,resilience,0
+Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,5.0,4.0,4.0,4.0,4.0,No,positivity,1
+"Medicine, Health Sciences",No,20.0,Female,Yes,Yes,4.0,4.0,3.0,4.0,5.0,3.0,3.0,No,vision,0
+Engineering Sciences,Yes,21.0,Female,Yes,No,2.0,2.0,2.0,3.0,2.0,2.0,2.0,Yes,resilience,0
+Engineering Sciences,No,19.0,Male,Yes,Yes,5.0,5.0,3.0,5.0,5.0,3.0,3.0,Yes,positivity,1
+Others,Yes,21.0,Female,Yes,No,4.0,4.0,5.0,4.0,3.0,3.0,3.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,4.0,4.0,5.0,4.0,5.0,Yes,vision,1
+Engineering Sciences,No,19.0,Male,No,Yes,4.0,5.0,4.0,5.0,5.0,4.0,4.0,Yes,vision,0
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,5.0,5.0,5.0,4.0,4.0,5.0,5.0,Yes,resilience,1
+Engineering Sciences,Yes,21.0,Male,Yes,No,2.0,3.0,3.0,3.0,3.0,3.0,3.0,,positivity,1
+Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,4.0,2.0,3.0,,positivity,1
+Others,Yes,19.0,Female,Yes,Yes,4.0,4.0,4.0,4.0,4.0,5.0,4.0,,vision,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Female,No,Yes,3.0,5.0,4.0,4.0,4.0,5.0,5.0,,resilience,0
+Engineering Sciences,No,19.0,Male,Yes,No,4.0,5.0,4.0,4.0,5.0,5.0,4.0,,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,5.0,5.0,4.0,,vision,0
+Engineering Sciences,No,20.0,Male,Yes,Yes,1.0,1.0,1.0,5.0,5.0,5.0,5.0,,positivity,1
+"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,No,Yes,4.0,5.0,5.0,5.0,5.0,4.0,5.0,,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,positivity,1
+Others,No,20.0,Male,Yes,Yes,3.0,2.0,3.0,2.0,2.0,3.0,3.0,,vision,0
+Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,5.0,4.0,5.0,5.0,3.0,4.0,,passion,0
+Humanities and Social Sciences,Yes,21.0,Male,Yes,Yes,4.0,3.0,3.0,5.0,4.0,3.0,4.0,,positivity,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Male,No,No,3.0,4.0,3.0,4.0,5.0,2.0,3.0,No,vision,0
+Engineering Sciences,Yes,22.0,Male,Yes,Yes,2.0,5.0,5.0,3.0,4.0,4.0,5.0,Yes,positivity,0
+"Medicine, Health Sciences",Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,5.0,4.0,No,positivity,1
+Others,No,19.0,Male,Yes,Yes,3.0,3.0,2.0,2.0,3.0,3.0,3.0,No,positivity,0
+Engineering Sciences,No,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,4.0,3.0,4.0,Yes,passion,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,18.0,Female,Yes,No,4.0,5.0,5.0,4.0,5.0,4.0,4.0,No,passion,0
+Engineering Sciences,No,21.0,Male,No,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,passion,0
+Others,No,22.0,Male,Yes,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,No,passion,0
+Engineering Sciences,No,19.0,Male,No,Yes,5.0,4.0,5.0,5.0,5.0,4.0,3.0,No,vision,1
+"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Female,Yes,Yes,4.0,3.0,3.0,4.0,5.0,4.0,3.0,No,passion,0
+Language and Cultural Studies,No,19.0,Male,No,Yes,3.0,5.0,3.0,3.0,5.0,5.0,2.0,No,vision,0
+Others,No,19.0,Male,Yes,Yes,4.0,3.0,3.0,4.0,5.0,5.0,5.0,No,passion,1
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,5.0,3.0,5.0,4.0,2.0,Yes,vision,0
+"Medicine, Health Sciences",Yes,20.0,Female,Yes,No,5.0,4.0,5.0,5.0,5.0,5.0,3.0,Yes,work ethic,0
+Humanities and Social Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,5.0,5.0,5.0,5.0,5.0,No,passion,1
+Engineering Sciences,Yes,20.0,Male,Yes,No,5.0,4.0,4.0,4.0,4.0,5.0,3.0,No,work ethic,0
+Engineering Sciences,Yes,22.0,Male,No,Yes,3.0,4.0,4.0,4.0,5.0,5.0,5.0,No,passion,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,4.0,3.0,5.0,4.0,5.0,4.0,3.0,Yes,work ethic,1
+"Art, Music or Design",Yes,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,4.0,5.0,4.0,Yes,passion,0
+"Medicine, Health Sciences",No,20.0,Male,Yes,No,5.0,4.0,4.0,5.0,5.0,4.0,5.0,No,vision,0
+Humanities and Social Sciences,No,19.0,Female,Yes,Yes,3.0,5.0,2.0,4.0,4.0,4.0,2.0,No,positivity,1
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,5.0,5.0,4.0,4.0,5.0,5.0,3.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,3.0,5.0,4.0,5.0,4.0,4.0,No,positivity,0
+Engineering Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,4.0,5.0,No,positivity,1
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,4.0,4.0,4.0,No,work ethic,0
+Engineering Sciences,Yes,18.0,Male,Yes,No,2.0,3.0,3.0,2.0,2.0,2.0,3.0,No,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",No,17.0,Male,Yes,No,5.0,4.0,4.0,5.0,5.0,5.0,5.0,No,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,No,Yes,3.0,4.0,5.0,5.0,5.0,4.0,5.0,No,work ethic,0
+Engineering Sciences,No,20.0,male,Yes,No,2.0,3.0,3.0,2.0,3.0,2.0,2.0,Yes,positivity,0
+"Art, Music or Design",No,20.0,Female,Yes,Yes,4.0,4.0,3.0,4.0,5.0,4.0,3.0,No,positivity,0
+"Medicine, Health Sciences",Yes,20.0,Male,Yes,Yes,3.0,5.0,5.0,5.0,3.0,4.0,5.0,No,vision,1
+Engineering Sciences,Yes,20.0,Female,Yes,No,3.0,4.0,4.0,4.0,4.0,3.0,3.0,No,passion,1
+Engineering Sciences,Yes,21.0,Male,Yes,Yes,5.0,3.0,4.0,4.0,4.0,4.0,3.0,No,positivity,0
+Mathematics or Natural Sciences,Yes,20.0,Male,Yes,Yes,2.0,3.0,2.0,1.0,2.0,3.0,2.0,Yes,vision,0
+Engineering Sciences,No,20.0,Female,Yes,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,work ethic,0
+Engineering Sciences,Yes,21.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,5.0,4.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Female,Yes,Yes,4.0,5.0,4.0,4.0,4.0,5.0,4.0,No,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Female,Yes,Yes,3.0,5.0,4.0,4.0,5.0,4.0,4.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,3.0,3.0,3.0,4.0,4.0,4.0,No,passion,0
+Engineering Sciences,Yes,20.0,Female,Yes,Yes,3.0,4.0,4.0,4.0,5.0,5.0,3.0,No,passion,1
+Others,No,20.0,Female,Yes,Yes,4.0,5.0,5.0,4.0,5.0,4.0,3.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,4.0,4.0,4.0,Yes,work ethic,1
+"Art, Music or Design",Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,passion,0
+"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,No,1.0,2.0,1.0,2.0,3.0,2.0,2.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Male,,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Yes,vision,1
+Others,Yes,20.0,Male,Yes,Yes,3.0,4.0,4.0,4.0,3.0,3.0,4.0,Yes,passion,0
+"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,No,Yes,2.0,2.0,3.0,2.0,3.0,3.0,2.0,Yes,resilience,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,4.0,5.0,4.0,No,work ethic,1
+Engineering Sciences,Yes,20.0,male,Yes,Yes,3.0,4.0,3.0,5.0,5.0,5.0,5.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,positivity,1
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,2.0,2.0,2.0,2.0,2.0,2.0,2.0,No,vision,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Male,Yes,Yes,3.0,4.0,3.0,5.0,4.0,3.0,2.0,Yes,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",No,21.0,Male,No,Yes,3.0,4.0,3.0,4.0,5.0,3.0,4.0,Yes,passion,0
+Engineering Sciences,Yes,20.0,Male,No,No,3.0,4.0,5.0,5.0,3.0,4.0,4.0,No,passion,0
+"Medicine, Health Sciences",No,19.0,Male,Yes,No,3.0,1.0,3.0,4.0,3.0,3.0,5.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,No,Yes,4.0,4.0,4.0,4.0,5.0,5.0,5.0,No,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Female,Yes,Yes,4.0,3.0,4.0,4.0,4.0,5.0,5.0,Yes,positivity,0
+Engineering Sciences,No,22.0,Male,Yes,No,2.0,3.0,2.0,3.0,3.0,3.0,3.0,No,positivity,0
+"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,Yes,Yes,2.0,3.0,2.0,3.0,2.0,2.0,1.0,No,passion,1
+"Art, Music or Design",No,19.0,Female,Yes,Yes,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,positivity,1
+"Medicine, Health Sciences",No,17.0,Female,Yes,No,3.0,2.0,1.0,3.0,3.0,2.0,3.0,No,positivity,0
+Mathematics or Natural Sciences,No,18.0,Female,Yes,Yes,2.0,1.0,3.0,1.0,2.0,3.0,4.0,No,work ethic,0
+Others,Yes,20.0,Female,Yes,No,2.0,2.0,2.0,2.0,2.0,1.0,3.0,No,positivity,1
+Others,Yes,19.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,No,positivity,0
+"Art, Music or Design",No,22.0,Female,Yes,Yes,4.0,3.0,4.0,5.0,5.0,4.0,3.0,No,positivity,0
+"Art, Music or Design",Yes,21.0,Male,Yes,Yes,2.0,1.0,2.0,2.0,2.0,1.0,1.0,No,vision,0
+"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Female,,Yes,2.0,1.0,1.0,2.0,2.0,2.0,1.0,No,resilience,0
+"Art, Music or Design",No,21.0,Male,No,No,1.0,1.0,1.0,1.0,5.0,5.0,5.0,No,passion,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,25.0,Female,Yes,Yes,4.0,4.0,3.0,3.0,3.0,4.0,4.0,No,passion,0
+"Medicine, Health Sciences",Yes,22.0,Male,No,Yes,2.0,1.0,2.0,3.0,2.0,3.0,3.0,Yes,vision,0
+"Art, Music or Design",Yes,21.0,Male,No,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,No,passion,0
+"Art, Music or Design",Yes,21.0,Male,Yes,No,4.0,4.0,4.0,3.0,4.0,5.0,5.0,No,passion,0
+"Teaching Degree (e.g., B.Ed)",Yes,18.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,vision,1
+"Medicine, Health Sciences",No,19.0,Female,Yes,No,4.0,5.0,5.0,5.0,5.0,5.0,5.0,Yes,vision,0
+Others,Yes,22.0,Female,Yes,No,3.0,3.0,3.0,3.0,3.0,3.0,2.0,No,positivity,0
+"Art, Music or Design",No,21.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,2.0,Yes,positivity,0
+"Teaching Degree (e.g., B.Ed)",Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,Yes,work ethic,1
+Engineering Sciences,Yes,18.0,Female,Yes,Yes,4.0,3.0,4.0,4.0,3.0,3.0,4.0,No,passion,0
+Engineering Sciences,No,18.0,Male,No,Yes,3.0,3.0,4.0,4.0,4.0,3.0,4.0,No,passion,0
+"Art, Music or Design",Yes,21.0,Male,Yes,Yes,3.0,4.0,4.0,4.0,5.0,4.0,5.0,Yes,passion,1
+"Art, Music or Design",Yes,19.0,Female,Yes,No,2.0,2.0,2.0,2.0,1.0,2.0,2.0,No,passion,0
+Others,Yes,20.0,Male,Yes,Yes,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,work ethic,1
+Engineering Sciences,Yes,20.0,Male,No,Yes,2.0,1.0,1.0,2.0,3.0,1.0,3.0,No,passion,1
+Engineering Sciences,Yes,20.0,Female,Yes,Yes,4.0,5.0,5.0,4.0,5.0,5.0,5.0,No,work ethic,0
+"Art, Music or Design",Yes,19.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,5.0,5.0,No,passion,1
+Humanities and Social Sciences,No,19.0,Female,No,No,2.0,2.0,1.0,2.0,2.0,2.0,3.0,No,positivity,1
+Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,3.0,2.0,2.0,3.0,3.0,2.0,No,work ethic,1
+Others,Yes,20.0,Female,Yes,No,4.0,5.0,4.0,4.0,3.0,5.0,5.0,Yes,passion,0
+Engineering Sciences,Yes,22.0,Male,No,Yes,4.0,3.0,4.0,4.0,5.0,3.0,4.0,No,passion,0
+Others,Yes,19.0,Male,Yes,Yes,4.0,3.0,3.0,4.0,4.0,3.0,3.0,No,work ethic,1
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,4.0,5.0,5.0,4.0,4.0,2.0,No,work ethic,1
+"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,5.0,4.0,5.0,Yes,passion,1
+"Art, Music or Design",Yes,19.0,Male,Yes,Yes,3.0,4.0,3.0,4.0,5.0,4.0,4.0,No,vision,1
+Engineering Sciences,No,17.0,Male,Yes,Yes,5.0,5.0,4.0,4.0,5.0,5.0,4.0,No,positivity,0
+Others,No,21.0,Female,No,Yes,3.0,1.0,2.0,3.0,2.0,2.0,1.0,Yes,passion,0
+"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Female,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,2.0,Yes,work ethic,0
+"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Female,Yes,No,4.0,5.0,3.0,2.0,3.0,1.0,1.0,Yes,passion,0
+Engineering Sciences,No,17.0,Male,No,Yes,3.0,4.0,4.0,2.0,3.0,2.0,3.0,No,passion,0
+Others,Yes,21.0,Female,Yes,No,4.0,5.0,4.0,5.0,4.0,4.0,4.0,Yes,positivity,1
+Others,Yes,19.0,Female,No,Yes,4.0,4.0,4.0,5.0,4.0,4.0,4.0,No,passion,1
+"Art, Music or Design",Yes,20.0,Male,Yes,Yes,2.0,3.0,2.0,4.0,2.0,3.0,2.0,No,positivity,1
+Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,work ethic,1
+Engineering Sciences,No,19.0,Male,Yes,yes,5.0,3.0,5.0,4.0,5.0,5.0,5.0,No,positivity,1
+Engineering Sciences,Yes,19.0,Female,Yes,No,3.0,3.0,5.0,4.0,4.0,3.0,3.0,Yes,work ethic,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,5.0,4.0,4.0,5.0,5.0,No,positivity,1
+"Art, Music or Design",Yes,19.0,Male,Yes,Yes,3.0,3.0,4.0,4.0,4.0,3.0,3.0,No,passion,0
+Engineering Sciences,No,19.0,Male,Yes,No,3.0,3.0,4.0,4.0,4.0,3.0,3.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Male,Yes,yes,3.0,3.0,4.0,4.0,4.0,3.0,3.0,No,work ethic,1
+Engineering Sciences,No,19.0,Male,No,Yes,3.0,3.0,4.0,4.0,4.0,3.0,3.0,No,positivity,1
+Mathematics or Natural Sciences,Yes,17.0,Male,Yes,Yes,3.0,3.0,4.0,4.0,4.0,3.0,3.0,No,vision,0
+"Art, Music or Design",Yes,20.0,Female,Yes,Yes,3.0,3.0,4.0,4.0,4.0,3.0,3.0,Yes,positivity,1
+Engineering Sciences,Yes,20.0,Female,Yes,unknown,3.0,3.0,4.0,4.0,4.0,3.0,3.0,No,passion,0
+Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,5.0,4.0,4.0,4.0,5.0,Yes,positivity,1
+Engineering Sciences,Yes,21.0,Male,Yes,Yes,3.0,5.0,4.0,4.0,4.0,4.0,3.0,Yes,positivity,0
+Engineering Sciences,Yes,21.0,Female,No,No,3.0,2.0,3.0,4.0,3.0,3.0,2.0,No,positivity,1
+Engineering Sciences,No,20.0,Male,Yes,No,3.0,5.0,4.0,4.0,5.0,5.0,5.0,No,vision,1
+"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,No,3.0,2.0,3.0,4.0,2.0,2.0,3.0,No,positivity,0
+Engineering Sciences,Yes,20.0,Female,Yes,Yes,3.0,3.0,2.0,4.0,3.0,3.0,2.0,No,passion,1
+"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,5.0,5.0,Yes,vision,1
+"Art, Music or Design",Yes,20.0,Female,Yes,Yes,3.0,5.0,5.0,4.0,4.0,5.0,5.0,No,work ethic,1
+Engineering Sciences,No,19.0,Male,Yes,No,3.0,2.0,3.0,4.0,4.0,2.0,4.0,Yes,work ethic,0
+Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,5.0,4.0,3.0,4.0,4.0,5.0,Yes,positivity,1
+Engineering Sciences,Yes,19.0,Male,Yes,No,2.0,2.0,2.0,2.0,2.0,2.0,2.0,No,work ethic,0
+Engineering Sciences,Yes,22.0,Female,Yes,Yes,3.0,4.0,4.0,3.0,4.0,4.0,3.0,No,vision,1
+Engineering Sciences,No,19.0,male,Yes,No,1.0,2.0,2.0,3.0,3.0,2.0,2.0,No,passion,0
+Engineering Sciences,Yes,18.0,Male,,Yes,3.0,5.0,3.0,5.0,5.0,5.0,2.0,No,passion,1
