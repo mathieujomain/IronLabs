@@ -1,0 +1,9 @@
+Spotify recommendation model is divided in 3 parts: Collaborative filtering, Natural Language Processing and Audio models.
+The first one identify titles listened by users and find paterns of taste. In other words the collaborative filtering recommend title based on what other users liked
+(liked song or added to a playlist)
+Natural language processing look for article, blog post that mention a specific song / artist and recognize key-words used to describe them. 
+Based on those keywords, songs and artists are placed into groups.
+The audio model is acquired by the use of convolutional neural networks. The result data is information about the tempo, volume, time signature...
+This process analyze the raw audio of each title without taking into consideration the notoriety of the artist. That way it can even recomend title from a not famous artist.
+
+By combining those 3 elements spotify is able to create a weekly playlist for each users with various songs according to its taste.
