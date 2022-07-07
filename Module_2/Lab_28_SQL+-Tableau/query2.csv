@@ -1,0 +1,23 @@
+calendar_year,department,gender,manager_count
+1990,Production,M,8
+1990,"Human Resources",F,2
+1991,Marketing,M,12
+1991,Finance,F,5
+1992,"Human Resources",M,9
+1992,Marketing,F,8
+1993,Marketing,M,10
+1993,Marketing,F,11
+1994,Marketing,M,13
+1994,"Human Resources",F,6
+1995,Marketing,M,11
+1995,Marketing,F,9
+1996,Finance,M,7
+1996,Marketing,F,3
+1997,Marketing,M,8
+1997,Development,F,3
+1998,Finance,M,4
+1998,Marketing,F,2
+1999,Marketing,M,4
+1999,Development,F,4
+2000,Finance,M,2
+2000,"Human Resources",F,3
