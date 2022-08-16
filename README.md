@@ -3,7 +3,7 @@ Mathieu Jomain [DA, Paris & 07/22]
 
 # Overview
 
-This repository includes all the different exercices I had to complete in order to graduate from Ironhack. The work is seperated in 3 different modules, each containing differetn topics and corresponding practice.
+This repository includes all the different exercices I had to complete in order to graduate from Ironhack. The work is seperated in 3 different modules, each containing different topics and corresponding practice.
 
 Module 1:
 
